@@ -30,3 +30,8 @@ package() {
 }
 
 # vim:set ts=2 sw=2 et:
+# Maintainer:  Pellegrino Prevete <cGVsbGVncmlub3ByZXZldGVAZ21haWwuY29tCg== | base -d>
+# Maintainer:  Truocolo <truocolo@aol.com>
+#!/usr/bin/env bash
+#
+# SPDX-License-Identifier: AGPL-3.0
